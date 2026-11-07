@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Oğuzhan Gökduman  
+# 👋 Hi, I’m Oğuzhan
 🚀 **A passionate developer turning ideas into reality with code.**  
 
 ### 👨‍💻 About Me  
